@@ -39,3 +39,9 @@ Compute the following statements:
 | (float) a % e  |                 |
 
 ### 3. Summarize the rules for division and modulo division when it comes to integers and floats.
+
+&nbsp;  
+&nbsp; 
+&nbsp;  
+&nbsp;  
+
