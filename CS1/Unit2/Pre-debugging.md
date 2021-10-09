@@ -22,19 +22,20 @@ float e = 2.0;
 ```  
 
 Compute the following statements:
+|    Statement   | Expected Result |
+|:--------------:|:---------------:|
+|          b / d |                 |
+|          b % d |                 |
+|          a / c |                 |
+|          a / b |                 |
+|          c % d |                 |
+|          a % b |                 |
+|          a / e |                 |
+|          d / e |                 |
+|  b / (float) d |                 |
+|  d / (float) a |                 |
+|    a / (int) e |                 |
+|  (float) a / e |                 |
+| (float) a % e  |                 |
 
-|   Statement   | Expected Result |
-|:-------------:|:---------------:|
-|         `a * b` |                 |
-|         `b / d` |                 |
-|         `b % d` |                 |
-|         `a / c` |                 |
-|         `a / b` |                 |
-|         `c - d` |                 |
-|         `c % d` |                 |
-|         `a % b` |                 |
-|         `a / e` |                 |
-|         `d / e` |                 |
-| `b / (float) d` |                 |
-| `d / (float) a` |                 |
-|   `a / (int) e` |                 |
+### 3. Summarize the rules for division and modulo division when it comes to integers and floats.
