@@ -4,6 +4,8 @@
 
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
 ### 1. Define each of the following:
   * debugging
@@ -17,9 +19,12 @@
 &nbsp;
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
 
 ### 3. I created a program in a file called ***myprogram.c*** and I want to debug it using debug50. What are the 3 things I need to do in order to run debug50 properly?
 
+&nbsp;
 &nbsp;
 &nbsp;
 &nbsp;
