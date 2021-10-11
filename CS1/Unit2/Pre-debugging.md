@@ -15,13 +15,13 @@
 
 ### 2. Operations 
 
-Given the following code:
+#### Given the following code:
 ```c
 int a = 4, b = 10, c = 3, d = 5;
 float e = 2.0;
 ```  
 
-Compute the following statements:
+#### Compute the following statements:
 |    Statement   | Expected Result |
 |:--------------:|:---------------:|
 |          b / d |                 |
