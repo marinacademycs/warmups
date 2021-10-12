@@ -43,3 +43,26 @@ int main (void)
 }
 
  ```
+ 
+ ### 5. Take a look at the following code and output, can you figure out what the numbers within the `%f` mean (e.g `%.2f`)? 
+
+#### Code:
+```
+#include <stdio.h>
+#define PI 3.141592
+
+int main (void)
+{
+    printf("PI is %f \n", PI);
+    printf("PI is %.1f \n", PI);
+    printf("PI is %.2f \n", PI);
+    printf("PI is %.5f \n", PI);
+}
+```
+#### Output of above:
+```
+PI is 3.141592
+PI is 3.1
+PI is 3.14
+PI is 3.14159
+```
