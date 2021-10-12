@@ -28,7 +28,7 @@
 #include <stdio.h>
 #include <cs50.h>
 
-int main() 
+int main (void) 
 {
    int rows, number = 1;
    rows = get_int("Enter the number of rows: ");
