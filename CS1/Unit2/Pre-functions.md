@@ -26,12 +26,10 @@
 
 ```c
 #include <stdio.h>
-#include <cs50.h>
 
 int main (void) 
 {
-   int rows, number = 1;
-   rows = get_int("Enter the number of rows: ");
+   int rows = 5, number = 1;
    
    for (int i = 0; i <= rows; i++) 
    {
