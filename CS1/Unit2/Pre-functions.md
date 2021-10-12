@@ -1,12 +1,5 @@
 # Pre-Functions Warmup
 
-### 0. What are the two tools we discussed last class that you can use to debug your code?
-
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-
 ### 1. Define each of the following:
   * debugging
   * printf debugging
@@ -28,3 +21,27 @@
 &nbsp;  
 &nbsp;  
 &nbsp;  
+
+### 4. What is the output of the following program?
+
+```c
+#include <stdio.h>
+#include <cs50.h>
+
+int main() 
+{
+   int rows, number = 1;
+   rows = get_int("Enter the number of rows: ");
+   
+   for (int i = 0; i <= rows; i++) 
+   {
+      for (int j = 0; j <= i; j++) 
+      {
+         printf("%d ", number);
+         number++;
+      }
+      printf("\n");
+   }
+}
+
+ ```
