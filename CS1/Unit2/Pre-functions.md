@@ -12,12 +12,9 @@
 &nbsp;  
 &nbsp;  
 &nbsp;  
-&nbsp;  
-&nbsp;  
 
 ### 3. I created a program in a file called ***myprogram.c*** and I want to debug it using debug50. What are the 3 things I need to do in order to run debug50 properly?
 
-&nbsp;  
 &nbsp;  
 &nbsp;  
 &nbsp;  
@@ -41,12 +38,12 @@ int main (void)
       printf("\n");
    }
 }
-
- ```
+```
  
- ### 5. Take a look at the following code and output, can you figure out what the numbers within the `%f` mean (e.g `%.2f`)? 
+### 5. Take a look at the following code and output, can you figure out what the numbers within the `%f` mean (e.g `%.2f`)?  
 
 #### Code:
+
 ```
 #include <stdio.h>
 #define PI 3.141592
@@ -61,8 +58,8 @@ int main (void)
 ```
 #### Output of above:
 ```
-PI is 3.141592
-PI is 3.1
-PI is 3.14
-PI is 3.14159
+	  PI is 3.141592
+	  PI is 3.1
+	  PI is 3.14
+	  PI is 3.14159
 ```
