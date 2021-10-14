@@ -7,7 +7,7 @@
   * constants, aka magic numbers
 &nbsp;  
 
-### 2. What is duck-debugging?
+### 2. What is rubber duck debugging?
 
 &nbsp;  
 &nbsp;  
