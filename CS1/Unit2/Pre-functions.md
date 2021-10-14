@@ -58,8 +58,8 @@ int main (void)
 ```
 #### Output of above:
 ```
-	  PI is 3.141592
-	  PI is 3.1
-	  PI is 3.14
-	  PI is 3.14159
+    PI is 3.141592
+    PI is 3.1
+    PI is 3.14
+    PI is 3.14159
 ```
