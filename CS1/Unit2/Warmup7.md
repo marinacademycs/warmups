@@ -15,11 +15,11 @@ for (int i = 0, n = strlen(a); i < n; i++)
 #### 2. What does the following code print?
 
 ```
-  printf("%d", 'A' + 'B');
-  printf("%d", 'c' - 'A');
-  printf("%c", 'z' - ' ');
-  printf("%c", 'x' - 58);
-  printf("%c", 'V' - '*' );
+   printf("%d\n", 'A' + 'B');
+   printf("%d\n", 'c' - 'A');
+   printf("%c\n", 'z' - ' ');
+   printf("%c\n", 'x' - 58);
+   printf("%c\n", 'V' - '*' );
   
 ```
 
@@ -32,9 +32,13 @@ for (int i = 0, n = strlen(a); i < n; i++)
 &nbsp;  
 &nbsp;  
 &nbsp;  
+&nbsp;  
+&nbsp;  
 
 #### 4. Do the same as above, except start with the last character of the string and end with the first.
 
+&nbsp;  
+&nbsp;  
 &nbsp;  
 &nbsp;  
 &nbsp;  
