@@ -34,7 +34,9 @@ for (int i = 0, n = strlen(a); i < n; i++)
 &nbsp;  
 &nbsp;  
 &nbsp;  
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
 #### 4. Do the same as above, except start with the last character of the string and end with the first.
 
 &nbsp;  
@@ -46,7 +48,9 @@ for (int i = 0, n = strlen(a); i < n; i++)
 &nbsp;  
 &nbsp;  
 &nbsp;  
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
 #### 5. Write a program that counts the number of spaces in a string, such as:
 
 `"Hello world, we are going to do great things!"`
