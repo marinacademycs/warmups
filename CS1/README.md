@@ -5,9 +5,11 @@
 
 - Variables
 - Data types
+- Operators
 - Conditionals (if)
 - Booleans
 - Loops (for and while)
+- Command Line
 
 ### Unit 2 Topics
 
