@@ -1,6 +1,7 @@
-# Topics of Each Unit
+# Unit Topics
+&nbsp;  
 
-## Unit 1 Topics
+### Unit 1 Topics
 
 - Variables
 - Data types
@@ -8,7 +9,7 @@
 - Booleans
 - Loops (for and while)
 
-## Unit 2 Topics
+### Unit 2 Topics
 
 - Functions
 - Debugging
@@ -16,3 +17,12 @@
 - Command Line Arguments
 - Arrays
 - Strings
+
+### Unit 3 Topics
+
+- Algorithms
+- Linear Search
+- Binary Search
+- Bubble Sort
+- Selection Sort
+- Merge Sort
