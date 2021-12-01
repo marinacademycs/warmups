@@ -1,6 +1,11 @@
 # Unit Topics
 &nbsp;  
 
+### Unit 0 Topics
+
+- Computation Thinking
+- Scratch and Block Programming
+
 ### Unit 1 Topics
 
 - Variables
