@@ -61,7 +61,11 @@ int main(void)
 }
 ```
 
-### 3. Read through the following code. Try to figure out what is going on. Make notes of what you understand and what you don't
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+### 3. Read through the following code. Try to figure out what is going on. Make notes of what you understand and what you don't.
 
 ```
 #include <cs50.h>
