@@ -23,8 +23,12 @@
 ### Unit 3 Topics
 
 - Algorithms
-- Linear Search
-- Binary Search
-- Bubble Sort
-- Selection Sort
-- Merge Sort
+- Sorting
+  - Bubble Sort
+  - Selection Sort
+  - Merge Sort
+- Searching
+  - Linear Search
+  - Binary Search
+- Big O, Omega Notation
+- Structs
