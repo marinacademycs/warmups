@@ -56,7 +56,10 @@
 &nbsp;  
 &nbsp;  
 &nbsp;  
-
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
 ### 5. Write a `for` loop that prints the squares of each number up to the number that a user enters.
 For example, a user enters `5`. Your for loop should print out:  
 
@@ -114,3 +117,12 @@ e.g. the user enters: 5. = 1*3 + 2*2 + 3*3 + 4*2 = 24
 
 ### 3. Sum all the odd numbers up to the number a user enters. For example, if the user enters 10, you program would compute 1+3+5+7+9.
 &nbsp;  
+
+
+## How to Submit
+
+Use this to submit your work from today: 
+    `submit50 marinacademycs/warmups/main/CS2/Unit0/warmup2`
+	 
+Use this link to submit the curent version of your adventure program:
+    `submit50 marinacademycs/warmups/main/CS2/adventure`
