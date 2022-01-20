@@ -49,7 +49,7 @@ A is greater than B and C is greater than D
 
 
 ## Practice Problems - to be completed in your IDE and turned in.
-Use this to submit your work from today: `submit50 marinacademycs/warmups/main/CS2/Unit0/warmup2`
+Use this to submit your work from today: `submit50 marinacademycs/warmups/main/CS2/Unit0/warmup3`
     
 #### 4. Write a program to display "Hello" if a number entered by user is a multiple of five, otherwise print "Bye".
 
