@@ -15,7 +15,7 @@
 | a / b      |        | e % b      |        | a > b           |        |
 | c * e      |        | b * a      |        | a != b          |        |
 | a ** b     |        | f + g      |        | a < c           |        |
-| f * c      |        | f + g      |        | a + b > e       |        |
+| f * c      |        | e + int(g) |        | a + b > e       |        |
 
  &nbsp;  
  &nbsp; 
@@ -45,22 +45,7 @@
 &nbsp;  
 &nbsp;  
 
-### 4. Use a for lop to print the following pattern:
- 
-1   <br>
-1 2   <br>
-1 2 3   <br>
-1 2 3 4   <br>
-1 2 3 4 5  <br>
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-&nbsp;  
-### 5. Write a `for` loop that prints the squares of each number up to the number that a user enters.
+### 4. Write a `for` loop that prints the squares of each number up to the number that a user enters.
 For example, a user enters `5`. Your for loop should print out:  
 
 1 <br>
@@ -74,7 +59,7 @@ For example, a user enters `5`. Your for loop should print out:
 &nbsp;  
 &nbsp;  
 
-### 6. Write a `for` loop that prints `Hello, [name], welcome to the party!` for each of these names:
+### 5. Write a `for` loop that prints `Hello, [name], welcome to the party!` for each of these names:
  
     students = ['Kyle', 'Eric', 'Michael', 'Will', 'Connor', 'Parker', 'Ethan', 'Brian']
 
@@ -89,11 +74,27 @@ For example, a user enters `5`. Your for loop should print out:
 &nbsp;  
 &nbsp;  
 
-### 7. Write a for loop that adds each digit in a long integer.
+### 6. Write a for loop that adds each digit in a long integer.
 For example, a user enters `12345`. Your program should return `15`
 
 &nbsp;  
 &nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+&nbsp;  
+
+### 7. Use a `for` loop to print the following pattern :
+hint: You can use end="" to tell print() not to automatically add a new line.
+1   <br>
+1 2   <br>
+1 2 3   <br>
+1 2 3 4   <br>
+1 2 3 4 5  <br>
 &nbsp;  
 &nbsp;  
 &nbsp;  
