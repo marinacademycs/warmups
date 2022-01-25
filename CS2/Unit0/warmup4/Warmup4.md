@@ -35,6 +35,10 @@
 &nbsp;  
 
 # Practice Problems - Functions!
+For the below problems, make sure to put your code into a single file called `warmup4.py` 
+Use this link to submit your work: 
+    `submit50 marinacademycs/warmups/main/CS2/Unit0/warmup4`
+
 This is the general structure of a python function:
 
     def myAwesomeFunction(a, b):    # "def" means "Define", a and b are arguments "myAwesomeFunction" is the name of the function.
