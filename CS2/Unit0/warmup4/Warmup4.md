@@ -34,7 +34,7 @@
 &nbsp;  
 &nbsp;  
 
-# Practice Problems - Functions!
+## Practice Problems - Functions!
 For the below problems, make sure to put your code into a single file called `warmup4.py` 
 Use this link to submit your work: 
     `submit50 marinacademycs/warmups/main/CS2/Unit0/warmup4`
