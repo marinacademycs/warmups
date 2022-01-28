@@ -13,7 +13,7 @@ You can use the IDE for these problems.
 #### 2. Write a function that tests whether a variable is a string or not. If it is a string, return True, otherwise False. You may use the CS50 IDE for this problem.
 Hint: use the `type()` function.
 
-Call this function with the following values: `3`, 3, 'hello', 4.5
+Call this function with the following values: `'3', 3, 'hello', 4.5`
 
 &nbsp;  
 &nbsp;  
@@ -23,13 +23,13 @@ Call this function with the following values: `3`, 3, 'hello', 4.5
 
 ### Practice Problems
 
-#### 3. Slice the string `“computer science”` so that it only shows `“science”` and then capitalize the “s”, resulting in `“Science”`.
+#### 3. Slice the string `computer science` so that it only shows `science` and then capitalize the `s`, resulting in `Science`.
 
 &nbsp;  
 &nbsp;  
 &nbsp;  
 
-#### 4. Can you do the above in just two lines of code? The first line is `a=”computer science”`. How can you capitalize and slice a string in a single line of code?
+#### 4. Can you do the above in just two lines of code? The first line is `a=computer science`. How can you capitalize and slice a string in a single line of code?
 
 &nbsp;  
 &nbsp;  
