@@ -25,12 +25,9 @@
 3. g & k should be removed because they are kind of useless
 
 Do one at a time!
-
-&nbsp;  
-&nbsp;  
 &nbsp;  
 
-### Practice during this class:
+## Practice during this class:
 
 #### A. Write a program that similuates a character fighting a monster, RPG style. The character should start with health points and so should the monster. They should take turns "attacking" each other until one of them dies. Be creative!
 
@@ -39,6 +36,8 @@ Some important considerations:
 1. Start simple. Manually assign HP to each. 
 2. Then get a loop that simulates "attacks". the random module will be helpful here: `import random` and to get a random integer: `num = random.randint(0, 100)` Subtract that from the health of the user or monster!
 3. The attack simluation must be a function! This way you can repeatbattles over and over. 
+
+&nbsp;  
 
 #### B. Combine this battle with the choose-your-own-adventrure story you started (you started this, right!?) a couple weeks ago.
 
