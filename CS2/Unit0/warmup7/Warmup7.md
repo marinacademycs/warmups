@@ -1,4 +1,4 @@
-# Unit 0 - Warmup 6 - Strings and Lists
+# Unit 0 - Warmup 7 - Strings and Lists
 
 In your IDE and with your group... hint: Do you remember how to *slice* a string?
 
