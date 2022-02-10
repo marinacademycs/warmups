@@ -1,13 +1,12 @@
 # Unit 0 - Warmup 9, Exit Codes and Command Line Arguments
 
-## Warmup
-#### 1. What is the terminal command to view the exit code a program exited with?
+## Warmup Problems
+#### 1. What terminal command do you use to view the exit code a program exited with?
 
 &nbsp;  
 &nbsp;  
 &nbsp;  
-&nbsp;  
-&nbsp;  
+&nbsp;   
 
 #### 2. There are errors with the following program. They could be syntax or logical errors. Can you find them?
 ```
