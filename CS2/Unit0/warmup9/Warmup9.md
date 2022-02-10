@@ -38,10 +38,11 @@ main()
 - Accepts commdand line arguments
 - If no arguments are given, exit 1 and print the message "You forgot the arguments"
 - If between 2 and 4 arguments are given, exit 2 print the message "You reached he goldilocks zone."
-- If more than 4 arguments are given, print "Woah, that's too many"
-- If the 3rd argument is "hello" (any version with capitals and lower case letters), print "Goodbye"
-- print all command line arguments.
+- If more than 4 arguments are given, print "Woah, that's too many" and exit 3.
+- If the 3rd argument is "hello" (any version with capitals and lower case letters), print "Goodbye" and exit 4.
+- print all command line arguments. exit 0.
 
+Make sure to test with different values!
 
 ## Practice Problem for Today
 
