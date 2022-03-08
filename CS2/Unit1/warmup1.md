@@ -1,10 +1,10 @@
-# Warm up Unit 1 -  The Return of C!
+# Warmup 1 - Unit 1 -  The Return of C!
 
 ### 1. In the following code, find the following:
 
 - functions
 - function prototype
-- varaiables and variable type
+- variables and variable types
 - conditionals
 - and / or
 - loops
@@ -131,4 +131,5 @@ Convert the following from decimal numbers to hexadecimal (these numbers represe
 &nbsp;  
 
 Convert the following from hexadecimal to decimal:
+
 - B4, CE, E6
