@@ -19,7 +19,7 @@
 &nbsp;  
 &nbsp;  
 
-### 3. Copy the following two programs tha attempt to swap two variables. Why one of these works as intended and why?
+### 3. Copy the following two programs that attempt to swap two variables. Which one of these works as intended and why?
 
 ex1:
 ```
